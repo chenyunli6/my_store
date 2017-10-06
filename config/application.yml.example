@@ -18,6 +18,10 @@ production:
 
   qiniu_bucket_domain: xxxx  # 你的 qiniu bucket domain
 
+  GMAIL_USERNAME: xxx
+
+  GMAIL_PASSWORD: xxx
+
 
 
 development:
